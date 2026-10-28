@@ -1,9 +1,5 @@
-# Project Name
+# odin-tic-tac-toe-game
 
-A brief description of what this project does.
+A tic tac toe game built with the use of factory function and immediately invoked function expression (IIFE).
 
-## Built With
 
-- HTML5
-- CSS3
-- JavaScript
